@@ -1,6 +1,6 @@
 # 닥터 솔저(Doctor Soldier)
 
-닥터 솔저는 군인들에게 **'전문가가 자신을 관리해준다.'**는 느낌을 선사하는 모바일용 웹 애플리케이션 (Single Page Application)입니다.
+닥터 솔저는 군인들에게 **'전문가가 자신을 관리해준다.'** 는 느낌을 선사하는 모바일용 웹 애플리케이션 (Single Page Application)입니다.
 
 닥터 솔저가 현재 제공하는 서비스는
 
@@ -131,7 +131,7 @@ mongoDB (mongoose): NoSQL 데이터베이스(예정)
 
 #### 파일 정보 및 목록(File Manifest)
 
-추가바람
+추가예정
 
 #### 저작권 및 사용권 정보 (Copyright / End User License)
 
@@ -151,7 +151,7 @@ mongoDB (mongoose): NoSQL 데이터베이스(예정)
 
 #### 크레딧 (Credit)
 
-- 추가바람
+- 추가예정
 
 #### 업데이트 정보 (Change Log)
 
