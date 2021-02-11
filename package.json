@@ -13,7 +13,7 @@
     "@fullcalendar/core": "^4.3.1",
     "@fullcalendar/daygrid": "^4.3.0",
     "@fullcalendar/vue": "^4.3.1",
-    "apexcharts": "^3.10.0",
+    "apexcharts": "^3.24.0",
     "element-ui": "^2.12.0",
     "url-loader": "^2.2.0",
     "vue": "^2.5.11",
